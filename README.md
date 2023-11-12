@@ -1,6 +1,5 @@
 # Ensemble-model-of-CARD
-Enhancing the accuracy of X-ray image classifi-
-cation is an essential factor to prompt treatment. this is the
+Enhancing the accuracy of X-ray image classification is an essential factor to prompt treatment. this is the
 main purpose that We study three conventional neural networks,
 DenseNet, CovidNet, and Attention ResNet to investigate their
 performances in classifying the chest X-ray images into three
